@@ -6,7 +6,7 @@ The project assigned to me during the fourteenth sprint involves Machine Learnin
 
 Throughout this sprint, I dived into machine learning for text on its key principles including lemmatization, TF-IDF, sentiment analysis, and embedding BERT model to transform words into vector.
 
-# **Project Overview**
+# **Project Insight**
 
 Junky Union, a new community dedicated to fans of classic cinema, is in the process of constructing a sophisticated system to filter and categorize movie critiques. The principal objective of this endeavor is to design an analytical model that capable to detect negative reviews intelligently. For this purpose, I will utilize the IMBD movie review dataset, complete with polarity labeling, to engineer a model that can systematically classify the reviews as either positive or negative. The aspiration is to reach a model precision characterized by an F1 score of no less than 0.85.
 
